@@ -1,16 +1,22 @@
 ## Hi there 👋
+🚀 About Me
+I am a 3rd-year Electronic and Computer Engineering student at Wroclaw University of Science and Technology, currently in my 6th semester (out of 7). My primary passion lies in hardware engineering, but I also have strong knowledge and interest in Artificial Intelligence (AI) and Computer Vision (CV)!
 
-<!--
-**AzraSelvitop/azraselvitop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy working in teams and contributing to technical projects. Over the past semesters, I have been part of multiple project groups, where I played key roles in hardware design, AI model training, and system integration.
 
-Here are some ideas to get you started:
+I am currenty working on my new project AI-Based Health Prediction System with my team "INNOVATE4"!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Technical Interests
+Hardware Engineering (Embedded Systems, Robotics, Microcontrollers, Circuit Design)
+
+Computer Vision & AI (Image Processing, Deep Learning, Object Detection)
+
+Software & Tools: Python, MATLAB, OpenCV, TensorFlow/Keras, Pandas, NumPy, Vivado, AltiumDesigner, AutoCAD
+
+
+
+🌍 Connect with Me
+📧 [Gmail](azraselvitop14@gmail.com)
+💼 [Linkedin](https://www.linkedin.com/in/azraselvitop/)
+
+
